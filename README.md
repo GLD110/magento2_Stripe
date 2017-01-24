@@ -33,3 +33,4 @@ Other Notes
 
 **Stripe works with USD only!** If USD is not your base currency, you will not see this module on checkout pages. This copndition is [hardcoded](https://github.com/Inchoo/magento2-Inchoo_Stripe/blob/master/Model/Payment.php#L32) in payment model.
 
+*---- GLD ----*
